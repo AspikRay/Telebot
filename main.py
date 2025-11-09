@@ -3,7 +3,7 @@ import pandas as pd
 import os
 from telebot import types
 
-TOKEN = '7681175404:AAHQIGRxJ1FTXxvlnycEHco4jCrIbJtNu_Q'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 FILE_DIRECTORY = 'bot_data'
